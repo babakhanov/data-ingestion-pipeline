@@ -1,4 +1,4 @@
-# Data Ingestion Pipeline for E-Commerce
+# Data Ingestion Pipeline for E-Commerce platform
 
 ## Overview
 
